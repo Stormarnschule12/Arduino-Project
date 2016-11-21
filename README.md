@@ -6,5 +6,5 @@
   -Der Ultraschallsensor  
 
 ##Die Ersten Versuche mit LED's
-![alt text](link)  
+![alt text](https://github.com/Stormarnschule12/Arduino-Project/blob/master/IMG_1837.JPG)  
 Ss
