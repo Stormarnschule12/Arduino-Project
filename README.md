@@ -1,9 +1,10 @@
 # Arduino-Project
 
--Die ersten Versucche mit LED's  
--Arbeiten mit Motoren  
--Der weg zum Roboter  
-  -Der Ultraschallsensor  
+1.Die ersten Versucche mit LED's  
+2.Der Transistor  
+3.Die Windmaschinenampel  
+4.Der Motor
+5.Der Ultraschallsensor
 
 ##Die Ersten Versuche mit LED's
 <img src="https://github.com/Stormarnschule12/Arduino-Project/blob/master/IMG_1838.JPG" alt="example" width="582"><img src="https://github.com/Stormarnschule12/Arduino-Project/blob/master/Taster.PNG" alt="example" width="290">
@@ -13,7 +14,7 @@ als erstes kleines Project haben wir eine einface Ampel programmiert, die über 
 ##Der Transistor
 <img src="https://github.com/Stormarnschule12/Arduino-Project/blob/master/IMG_1843.JPG" alt="example" width="582"><img src="https://github.com/Stormarnschule12/Arduino-Project/blob/master/Transistor.PNG" alt="example" width="290">
 
-##Die Windmaschine
+##Die Windmaschinenampel
 <img src="https://github.com/Stormarnschule12/Arduino-Project/blob/master/IMG_1849.JPG" alt="example" width="582"><img src="https://github.com/Stormarnschule12/Arduino-Project/blob/master/Ampel_1.PNG" alt="example" width="290">
 <img src="https://github.com/Stormarnschule12/Arduino-Project/blob/master/IMG_1850.JPG" alt="example" width="582"><img src="https://github.com/Stormarnschule12/Arduino-Project/blob/master/Ampel_2.PNG" alt="example" width="290">
 
