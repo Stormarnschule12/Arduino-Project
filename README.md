@@ -14,8 +14,8 @@ als erstes kleines Project haben wir eine einface Ampel programmiert, die über 
 <img src="https://github.com/Stormarnschule12/Arduino-Project/blob/master/IMG_1843.JPG" alt="example" width="582"><img src="https://github.com/Stormarnschule12/Arduino-Project/blob/master/Transistor.PNG" alt="example" width="290">
 
 ##Die Windmaschine
-<img src="https://github.com/Stormarnschule12/Arduino-Project/blob/master/IMG_1850.JPG" alt="example" width="582"><img src="https://github.com/Stormarnschule12/Arduino-Project/blob/master/Ampel_1.PNG" alt="example" width="290">
-<img src="https://github.com/Stormarnschule12/Arduino-Project/blob/master/IMG_1849.JPG" alt="example" width="582"><img src="https://github.com/Stormarnschule12/Arduino-Project/blob/master/Ampel_2.PNG" alt="example" width="290">
+<img src="https://github.com/Stormarnschule12/Arduino-Project/blob/master/IMG_1849.JPG" alt="example" width="582"><img src="https://github.com/Stormarnschule12/Arduino-Project/blob/master/Ampel_1.PNG" alt="example" width="290">
+<img src="https://github.com/Stormarnschule12/Arduino-Project/blob/master/IMG_1850.JPG" alt="example" width="582"><img src="https://github.com/Stormarnschule12/Arduino-Project/blob/master/Ampel_2.PNG" alt="example" width="290">
 
 ##Der Motor
 <img src="https://github.com/Stormarnschule12/Arduino-Project/blob/master/IMG_1864.JPG" alt="example" width="582"><img src="https://github.com/Stormarnschule12/Arduino-Project/blob/master/Stepmotor.PNG" alt="example" width="290">
