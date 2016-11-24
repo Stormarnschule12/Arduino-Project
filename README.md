@@ -3,7 +3,7 @@
 1.Die ersten Versucche mit LED's  
 2.Der Transistor  
 3.Die Windmaschinenampel  
-4.Der Motor
+4.Der Motor  
 5.Der Ultraschallsensor
 
 ##Die Ersten Versuche mit LED's
