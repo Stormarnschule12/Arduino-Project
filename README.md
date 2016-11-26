@@ -15,7 +15,7 @@ Zu Beginn der Unterrichtseinheit haben wir uns erst damit beschäftig, welches P
 <img src="https://github.com/Stormarnschule12/Arduino-Project/blob/master/IMG_1838.JPG" alt="example" width="582"><img src="https://github.com/Stormarnschule12/Arduino-Project/blob/master/Taster.PNG" alt="example" width="290">
 [Skript LED's](https://github.com/Stormarnschule12/Arduino-Project/blob/master/sketch_Taster.ino)
 
-Als erstes kleines Project haben wir eine einfache Ampel programmiert, die über einen Knopf bedient wird. Bei drücken der Taste wechselt die Ampel von grün auf rot und nach einer bestimmten Zeit wirder zurück. Hierbei haben wir uns mit den Grundkenntnisse bezüglich der Programmierung eines Adurino auseinandergesetzt. Grundlegende Befehle welche in den Skript eingetragen werden haben wir ebenfalls kennengelernt und haten damit eine gute Basis um mit komplizierteren Schaltungen zu arbeiten.  
+Als erstes kleines Projekt haben wir eine einfache Ampel mit eimem Knopf als Auslöser programmiert und aufgebaut. Zu beginn brennt die grüne LED und die rote ist nicht in betrieb. Bei Benutzung der Taste geht die grüne LED aus und die rote LED beginnt zu leuchten. Nach einer in dem Skript fest definierten Zeit, wird dieser Vorgang revidiert und die LED's sind in ihrem Ausgangszustand. Dieser erste Aufbau hat es uns ermöglicht die Benutzung der Arduino Software zu erlernen. Zudem haben wir die Grundlegenden Formeln für die Programmierung kennengelernt.
 
 ##Der Transistor <a name="2"></a>
 <img src="https://github.com/Stormarnschule12/Arduino-Project/blob/master/IMG_1843.JPG" alt="example" width="582"><img src="https://github.com/Stormarnschule12/Arduino-Project/blob/master/Transistor.PNG" alt="example" width="290">
