@@ -6,6 +6,7 @@
 [4.Die Windmaschinenampel](#3)  
 [5.Der Motor](#4)  
 [6.Der Ultraschallsensor](#5)
+[7.Schlusswort](#7)
 
 ##Einleitung<a name="6"></a>
 
@@ -47,3 +48,5 @@ Nach Aufbau und programmierung führten wir das Programm mit verschiedenen Schri
 
 In userem, bis zu diesem Zeitpunkt, letzen Aufbau beschäftigten wir uns mit dem, für unseren selbstfahrendem Robotor, unerlässlichem Steuerelement. Dem Ultraschallsensor. Im Vorfeld dieses Schrittes mussten wir uns mehr einlesen, da dies, dass bis jetzt komplizierteste Element war. Bei der Arbeit mit ihm, muss man nämlich auch den Umgang mit Variabelen und einige rechnerische Elemnte beachten.
 Nach einer gewissen Einlesezeit begannen wir. Der Sensor sendet ein Signal aus, das von einem Objekt zurückgeworfen wird, auf das es trifft. Der dann eingegehende Impuls ist erstmal für den Code nicht  zu verarbeiten. Die Zeit zwischen aussenden und empfangen wird gemessen. Die Zeit wird durch die Schallgeschwindigkeit geteilt, um ein Distanz heraus zu bekommen.dann wird diese durch 2 geteilt, da man nur die Streck in eine Richtung haben möchte. Wir schrieben den Code so, dass in einem definierten Bereich vor dem Sensor eine grüne LED leuchtet, ist das Objekt zu dicht vor dem Sensor wechselt das Licht von grün auf rot.
+
+##Schlusswort<a name="7"></a>
