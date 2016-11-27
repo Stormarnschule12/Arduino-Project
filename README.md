@@ -36,8 +36,14 @@ In diesem Zwischenschritt, konnten wir verschiedene Mechanismen mit einander zu 
 <img src="https://github.com/Stormarnschule12/Arduino-Project/blob/master/IMG_1864.JPG" alt="example" width="582"><img src="https://github.com/Stormarnschule12/Arduino-Project/blob/master/Stepmotor.PNG" alt="example" width="290">
 [Skript Schrittmotor](https://github.com/Stormarnschule12/Arduino-Project/blob/master/sketch_Stepmotor.ino)
 
-in unserem nun folgenden Schritt beschäftigten wir uns mit dem Motorschild
+In unserem nun folgenden Schritt beschäftigten wir uns mit dem Motorschild, einem Aufsteckmodul für den Arduino, dieser ermöglicht es, eine externe Stromquelle mit stärkerer Spannung direkt anzuschließen. Zusätzlich bietet das Modul Anschlussmöglichkeiten für zwei Drehmotoren, welche jeweils zwei positiv und negativ Anschlüsse brauchen.
+Wir fügten der softwarelibaire eine Ordner hinzu, welcher die Befehlsbasis des Arduino erweitert um de einfache Programmirung des Arduinos ermöglicht.
+Nach Aufbau und programmierung führten wir das Programm mit verschiedenen Schrittweiten und Geschwindigkeiten aus.
+
 ##Der Ultraschallsensor <a name="5"></a>
 <img src="https://github.com/Stormarnschule12/Arduino-Project/blob/master/IMG_1954.JPG" alt="example" width="436,5"><img src="https://github.com/Stormarnschule12/Arduino-Project/blob/master/Ultraschallsensor_1.PNG" alt="example" width="436,5">
 <img src="https://github.com/Stormarnschule12/Arduino-Project/blob/master/IMG_1955.JPG" alt="example" width="436,5"><img src="https://github.com/Stormarnschule12/Arduino-Project/blob/master/Ultraschallsensor_2.PNG" alt="example" width="436,5">
 [Skript Ultraschallsensor](https://github.com/Stormarnschule12/Arduino-Project/blob/master/sketch_Ultraschallsensor_mit_LED.ino)
+
+In userem, bis zu diesem Zeitpunkt, letzen Aufbau beschäftigten wir uns mit dem, für unseren selbstfahrendem Robotor, unerlässlichem Steuerelement. Dem Ultraschallsensor. Im Vorfeld dieses Schrittes mussten wir uns mehr einlesen, da dies, dass bis jetzt komplizierteste Element war. Bei der Arbeit mit ihm, muss man nämlich auch den Umgang mit Variabelen und einige rechnerische Elemnte beachten.
+Nach einer gewissen Einlesezeit begannen wir. Der Sensor sendet ein Signal aus, das von einem Objekt zurückgeworfen wird, auf das es trifft. Der dann eingegehende Impuls ist erstmal für den Code nicht  zu verarbeiten. Die Zeit zwischen aussenden und empfangen wird gemessen. Die Zeit wird durch die Schallgeschwindigkeit geteilt, um ein Distanz heraus zu bekommen.dann wird diese durch 2 geteilt, da man nur die Streck in eine Richtung haben möchte. Wir schrieben den Code so, dass in einem definierten Bereich vor dem Sensor eine grüne LED leuchtet, ist das Objekt zu dicht vor dem Sensor wechselt das Licht von grün auf rot.
