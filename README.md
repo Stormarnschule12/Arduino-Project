@@ -9,7 +9,7 @@
 
 ##Einleitung<a name="6"></a>
 
-Zu Beginn der Unterrichtseinheit haben wir uns erst damit beschäftig, welches Projekt für uns geeignet ist. Dabei haben wir zum einen darauf geachtet, welches Projekt von dem Schwierigkeitsgrad zu uns passt. Zum anderen wollten wir ein Projekt beginnen, welches nicht nur fiktiv auf einem Bildschirm sichtbar ist, sondern real ist. Nach einer kurzen Rücksprache mit unserem Informatiklehrer sind wir schlussendlich auf den Arduino gekommen, da dieser genau zu unseren kriterien passt. Unser Ziel ist es, am Ende unserer Projektreihe einen alleine Fahrenden Roboter zu programmieren und zu bauen. Dieser soll in einem abgesteckten Pakour ohne Einwirkungen von außen seinen weg finden. Da unsere Informatikvorkenntnisse sehr begrenzt waren, haben wir uns am Anfang mit einfachen Schaltungen und Skripts auseinander gesetzt. Hierbei haben wir die verschiedenen Bauteile und Möglichkeiten des Arduino, welche für den Bau unseres Roboters notwendig sind, besser kennengelernt und deren Benuzung erlernt. Am Ende dieser Reihe ist es unsere Ziel mit unseren neu erworbenen Fähigkeiten eine wie oben beschriebenen Roboter Herzustellen. Folgend werden wir unsere Schritte hierzu genauer erläutern.
+Zu Beginn der Unterrichtseinheit haben wir uns erst damit beschäftig, welches Projekt für uns geeignet ist. Dabei haben wir zum einen darauf geachtet, welches Projekt von dem Schwierigkeitsgrad zu uns passt. Zum anderen wollten wir ein Projekt beginnen, welches nicht nur fiktiv auf einem Bildschirm sichtbar ist, sondern real ist. Nach einer kurzen Rücksprache mit unserem Informatiklehrer sind wir schlussendlich auf den Arduino gekommen, da dieser genau zu unseren Kriterien passt. Unser Ziel ist es, am Ende unserer Projektreihe einen alleine Fahrenden Roboter zu programmieren und zu bauen. Dieser soll in einem abgesteckten Pakour ohne Einwirkungen von außen seinen Weg finden. Da unsere Informatikvorkenntnisse sehr begrenzt waren, haben wir uns am Anfang mit einfachen Schaltungen und Skripts auseinander gesetzt. Hierbei haben wir die verschiedenen Bauteile und Möglichkeiten des Arduino, welche für den Bau unseres Roboters notwendig sind, besser kennengelernt und deren Benuzung erlernt. Am Ende dieser Reihe ist es unsere Ziel mit unseren neu erworbenen Fähigkeiten einen wie oben beschriebenen Roboter herzustellen. Folgend werden wir unsere Schritte hierzu genauer erläutern.
 
 ##Die Ersten Versuche mit LED's <a name="1"></a>
 <img src="https://github.com/Stormarnschule12/Arduino-Project/blob/master/IMG_1838.JPG" alt="example" width="582"><img src="https://github.com/Stormarnschule12/Arduino-Project/blob/master/Taster.PNG" alt="example" width="290">
@@ -28,10 +28,15 @@ Der nächste Schritt beihaltete, dass wir beide uns mit einem Motor auseinander 
 <img src="https://github.com/Stormarnschule12/Arduino-Project/blob/master/IMG_1850.JPG" alt="example" width="582"><img src="https://github.com/Stormarnschule12/Arduino-Project/blob/master/Ampel_2.PNG" alt="example" width="290">
 [Skript Ampel](https://github.com/Stormarnschule12/Arduino-Project/blob/master/sketch_Amepl.ino)
 
+Als 3. Miniprojekt wollten wir nun unsere Erkenntnisse und Erfloge aus den beiden vorangegangenen Aufbauten zu einem größeren und komplexeren zusammenfügen. Wir steckten also wie im vorangehenden Aufbau den Drehmotor mit Transistor zusammen, zusätzlich bauten wir auchnoch vier LEDs und den Druckknopf in dem Aufbau zusammen. Unser Ziel war es, dass man von den LEDs den Betrieb des Motors ablesen kann.
+So leuchtet die grüne LED, wenn der Motor läuft. Bei drücken des Knopfes hört die Leuchte auf zu leucten, eine andere beginnt zu blinken, der Motor geht aus und die rote LED beginnt zu leuchten. Nach einer bestimmten Zeit geht die rote LED wieder aus, Grün leuchtet und der Motor dreht sich wieder.
+In diesem Zwischenschritt, konnten wir verschiedene Mechanismen mit einander zu verbinden.
+
 ##Der Motor <a name="4"></a>
 <img src="https://github.com/Stormarnschule12/Arduino-Project/blob/master/IMG_1864.JPG" alt="example" width="582"><img src="https://github.com/Stormarnschule12/Arduino-Project/blob/master/Stepmotor.PNG" alt="example" width="290">
 [Skript Schrittmotor](https://github.com/Stormarnschule12/Arduino-Project/blob/master/sketch_Stepmotor.ino)
 
+in unserem nun folgenden Schritt beschäftigten wir uns mit dem Motorschild
 ##Der Ultraschallsensor <a name="5"></a>
 <img src="https://github.com/Stormarnschule12/Arduino-Project/blob/master/IMG_1954.JPG" alt="example" width="436,5"><img src="https://github.com/Stormarnschule12/Arduino-Project/blob/master/Ultraschallsensor_1.PNG" alt="example" width="436,5">
 <img src="https://github.com/Stormarnschule12/Arduino-Project/blob/master/IMG_1955.JPG" alt="example" width="436,5"><img src="https://github.com/Stormarnschule12/Arduino-Project/blob/master/Ultraschallsensor_2.PNG" alt="example" width="436,5">
