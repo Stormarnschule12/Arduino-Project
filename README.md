@@ -5,7 +5,7 @@
 [3.Der Transistor](#2)  
 [4.Die Windmaschinenampel](#3)  
 [5.Der Motor](#4)  
-[6.Der Ultraschallsensor](#5)
+[6.Der Ultraschallsensor](#5)  
 [7.Schlusswort](#7)
 
 ##Einleitung<a name="6"></a>
