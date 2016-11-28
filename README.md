@@ -42,8 +42,8 @@ Wir fügten der softwarelibaire eine Ordner hinzu, welcher die Befehlsbasis des 
 Nach Aufbau und programmierung führten wir das Programm mit verschiedenen Schrittweiten und Geschwindigkeiten aus.
 
 ##Der Ultraschallsensor <a name="5"></a>
-<img src="https://github.com/Stormarnschule12/Arduino-Project/blob/master/IMG_1954.JPG" alt="example" width="436,5"><img src="https://github.com/Stormarnschule12/Arduino-Project/blob/master/Ultraschallsensor_1.PNG" alt="example" width="436,5">
-<img src="https://github.com/Stormarnschule12/Arduino-Project/blob/master/IMG_1955.JPG" alt="example" width="436,5"><img src="https://github.com/Stormarnschule12/Arduino-Project/blob/master/Ultraschallsensor_2.PNG" alt="example" width="436,5">
+<img src="https://github.com/Stormarnschule12/Arduino-Project/blob/master/IMG_1954.JPG" alt="example" width="500"><img src="https://github.com/Stormarnschule12/Arduino-Project/blob/master/Ultraschallsensor_1.PNG" alt="example" width="372">
+<img src="https://github.com/Stormarnschule12/Arduino-Project/blob/master/IMG_1955.JPG" alt="example" width="500"><img src="https://github.com/Stormarnschule12/Arduino-Project/blob/master/Ultraschallsensor_2.PNG" alt="example" width="372">
 [Skript Ultraschallsensor](https://github.com/Stormarnschule12/Arduino-Project/blob/master/sketch_Ultraschallsensor_mit_LED.ino)
 
 In userem, bis zu diesem Zeitpunkt, letzen Aufbau beschäftigten wir uns mit dem, für unseren selbstfahrendem Robotor, unerlässlichem Steuerelement. Dem Ultraschallsensor. Im Vorfeld dieses Schrittes mussten wir uns mehr einlesen, da dies, dass bis jetzt komplizierteste Element war. Bei der Arbeit mit ihm, muss man nämlich auch den Umgang mit Variabelen und einige rechnerische Elemnte beachten.
